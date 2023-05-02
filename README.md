@@ -292,3 +292,4 @@ resources as you need to, and it will get easier as you go along.
 - [Lifehacker on the Command Line](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
 - [More on paths - Wikipedia](<http://en.wikipedia.org/wiki/Path_(computing)>)
 - [How Dot Files Became Hidden Files](https://linux-audit.com/linux-history-how-dot-files-became-hidden-files/)
+Roshel
